@@ -21,11 +21,11 @@ At initial viewing, several categorical features contained similar but inconsist
 
 **Data Visualization**
 
-![Alt text](images/weightvsera.png)
+![Alt text](Images/weightvsera.png)
 
 This is a scatter plot showing the distribution between weight and the cleaned geological periods. As seen in the graph, most of the weights are concentrated within a lower weight range indicating that most dinosaurs in the dataset are relatively small. However, there are instances were dinosaurs from the Jurassic and Cretaceous periods seemed to weigh more which suggests that dinosaurs from the Cretaceous and Jurassic era tended to be larger.
 
-![Alt text](images/locomotionvsera.png)
+![Alt text](Images/locomotionvsera.png)
 
 The relationship between geological period and locomotion type, both simplified, was visualized also using a scatterplot for exploratory analysis. While the Cretaceous period contained all locomotion categories represented in the dataset, the Jurassic period lacked dinosaurs that were mixed in the method of movement and aquatic. The Triassic period lacked Aquatic examples in this dataset. 
 
@@ -43,9 +43,9 @@ All models were trained using the scikit-learn library. The dataset was split in
 
 The key performance metrics measure in this project are accuracy, precision, recall and F1-score. Accuracy measures overall correctness when predicting geological era, while precision and recall evaluate if the predicted labels were actually correctly identified. F1-score provides a balanced measure between precision and recall, evaluating the overall performance.
 
-![Alt text](images/modelaccuracycomparison.png)
+![Alt text](Images/modelaccuracycomparison.png)
 
-![Alt text](Screenshot_29-4-2026_145128_localhost.jpeg)
+![Alt text](Images/Screenshot_29-4-2026_145128_localhost.jpeg)
 
 
 ### Conclusions
