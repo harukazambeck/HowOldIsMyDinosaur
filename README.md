@@ -69,7 +69,6 @@ The instructions below douments how to reproduce results fully
 * Logistic_Regression.ipynb: Trains and visualizes the Logistic Regression model
 * Performance.ipynb: Loads and compares the evaluation results of all trained models
 * Random_Forest.ipynb: Trains and visualizes the Random Forest Classifier model
-* dinoDatasetCSV.csv: Original dataset downloaded from Kaggle
 
 ### Software Setup
 
